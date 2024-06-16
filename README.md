@@ -63,10 +63,6 @@ Si deseas contribuir a Literalura, sigue estos pasos:
 4. Sube los cambios a tu repositorio: `git push origin nueva-funcionalidad`.
 5. Envía un Pull Request para revisar los cambios.
 
-## Licencia
-
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
-
 ## Capturas de Pantalla
 
 ### Menú Principal
