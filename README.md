@@ -90,5 +90,3 @@ Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 ![Filtrar Libros por Idioma](screenshots/filtrar_libros_idioma.png)
 
 ---
-
-Asegúrate de tener una carpeta `screenshots` dentro de tu repo
